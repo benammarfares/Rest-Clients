@@ -8,7 +8,7 @@ public class GymzApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GymzApplication.class, args);
-		System.out.println("for badge");
+		System.out.println("for testing purposes");
 	}
 
 }
